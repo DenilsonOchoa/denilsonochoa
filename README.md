@@ -1,12 +1,12 @@
-<h2 align="center">
+<h1 align="center">
     <samp>&gt; Hola mundo, me llamo
         <b><a target="_blank" href="https://shahriarshafin.github.io/">Denilson Ochoa</a></b>
     </samp>
-</h2>
+</h1>
 
 <p align="center">
     <!-- Intro -->
-    <samp>
+    <samp style="font-size: 3.5em;">
         「 Estudio <b>economía</b> en la Universidad Nacional Pedro Ruiz Gallo de Perú 」
         <br>
         「 Me apasiona mucho la programación y la automatización de procesos 」
