@@ -13,7 +13,7 @@
 <h2> Acerca de mí: </h2>
     <ul style="font-family: 'Courier New', Courier, monospace;">
         <li style="font-family: 'Courier New', Courier, monospace;">👨🏼‍🎓 Estudio economía en la Universidad Nacional Pedro Ruiz Gallo.</li>
-        <li style="font-family: 'Courier New', Courier, monospace;">⚡ Me gusta mucho la programación y automatización de procesos.</li>
+        <li style="font-family: 'Courier New', Courier, monospace;">⚡ Me interesa mucho la programación, investigación y automatización de procesos.</li>
         <li style="font-family: 'Courier New', Courier, monospace;">🐶 Tengo 4 perritos.</li>
     </ul>
 
